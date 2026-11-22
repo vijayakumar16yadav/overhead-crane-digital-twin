@@ -2,10 +2,11 @@
 *.asv
 *.m~
 *.slxc
+*.mex*
 slprj/
 *_slprj/
 codegen/
-[0m*.mex*
+
 # Editor and operating system files
 .DS_Store
 Thumbs.db
