@@ -1,0 +1,11 @@
+# MATLAB temporary and generated files
+*.asv
+*.m~
+*.slxc
+slprj/
+*_slprj/
+codegen/
+[0m*.mex*
+# Editor and operating system files
+.DS_Store
+Thumbs.db
